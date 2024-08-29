@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA in java and creating some projects on Minecraft Modding 
 - 💞️ I’m looking to collaborate on any game dev projects
 - 📫 How to reach me : my instagram- @kanad_m14
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to solve different Rubik's puzzles
 
 <!---
